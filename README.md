@@ -1,4 +1,4 @@
-# Proyecto- Tienda de electronicos 
+# Proyecto- Tienda de Computadoras
 Proyecto Introducción a la Programación 
 package proyectofinal;
 
